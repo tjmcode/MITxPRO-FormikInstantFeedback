@@ -1,11 +1,11 @@
-# MITxPRO-FormikLogin
+# MITxPRO-FormikInstantFeedback
 
-MIT xPRO - Week 13 - User Login with Formik (React)
+MIT xPRO - Week 13 - Formik Login w/Instant Feedback (React)
 
 
 ## Description
 
-This repository holds my version of the "Formik Login Component" excercise from WEEK 13 of the "MIT xPRO: Professional Certificate in Coding: Full Stack Development with MERN" Course.
+This repository holds my version of the "Formik Login - Instant Feedback" excercise from WEEK 13 of the "MIT xPRO: Professional Certificate in Coding: Full Stack Development with MERN" Course.
 
 
 ## Getting Started
@@ -14,6 +14,7 @@ This repository holds my version of the "Formik Login Component" excercise from 
 ### Dependencies
 
 * MIT xPRO: "Build a Formik Form" Starter Code, embedded and refactored in this project.
+* FORMIK: Exmaple code for 'Instant Feedback'.
 
 
 ### Installing
@@ -24,7 +25,9 @@ This repository holds my version of the "Formik Login Component" excercise from 
 
 * Demonstration of validatoin...
 
-<p align="left"><img src=".\app-example.png" width="512" title="Login Validation..."></p>
+<p align="left"><img src=".\good-login.png" width="512" title="Good Login Validation..."></p>
+
+<p align="left"><img src=".\bad-password.png" width="512" title="Bad Password Feedback..."></p>
 
 ## Help
 
@@ -53,6 +56,8 @@ Contributors names and contact info
 
 ## Release History
 
+* 0.2
+    * Added 'Instant Feedback' appearance and reactions
 * 0.1
     * Refactored into the MicroCODE [MCODE] style and templates.
     * See [commit change]() or See [release history]()
@@ -61,7 +66,7 @@ Contributors names and contact info
 
 ## Future Development
 
-* 0.2
+* 0.3
     * Change to BOOTSTRAP CARD appearance.
 
 
